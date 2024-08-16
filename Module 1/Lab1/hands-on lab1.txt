@@ -1,0 +1,4 @@
+Hands-on Lab: 
+Exploring and Pre-processing a Dataset using Pandas
+
+The aim of this lab is to provide you a refresher on the Pandas library, so that you can pre-process and analyze the dataset before applying data visualization techniques on it.
